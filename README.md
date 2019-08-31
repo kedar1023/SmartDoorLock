@@ -1,3 +1,2 @@
 # SmartDoorLock
-# SmartDoorLock using Aurdino Uno R3
-# That will help people who get The Locked inside Room
+This system was developed for the small children and old people that something get locked in room or the hotel rooms l.With help of system he is able to rescue them easily with doing any damage to the door.
